@@ -4,5 +4,6 @@ Archive of old projects, homework, and personal projects on hiatus. In other wor
 ## Bootcamp HW
 * Week 1: Responsive-Portfolio
 * Week 2: Bootstrap-Portfolio
+
 ## Personal Projects
 * web-portfolio
