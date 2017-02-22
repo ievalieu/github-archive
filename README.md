@@ -1,2 +1,2 @@
-# github_archive
-Archive of old projects, homework, and personal projects on hiatus.
+# github-archive
+Archive of old projects, homework, and personal projects on hiatus. In other words, code I couldn't bear deleting no matter how ugly it is. Look at all that progress!
